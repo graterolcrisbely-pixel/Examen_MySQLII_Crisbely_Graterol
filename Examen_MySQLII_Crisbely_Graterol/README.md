@@ -1,1 +1,0 @@
-# Examen_MySQLII_Crisbely_Graterol
