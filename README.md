@@ -13,3 +13,7 @@ MI SOLUCION ANTE LO QUE ME PIDIO.
 3. Se filtran los totales mayores a 100 y se ordenan de mayor a menor.
 
 
+<img width="981" height="750" alt="image" src="https://github.com/user-attachments/assets/16683b53-5419-48aa-9a78-675c6aaf6404" />
+
+<img width="981" height="750" alt="image" src="https://github.com/user-attachments/assets/8a15f6c7-7dde-4805-bd86-c3421fa834f9" />
+
